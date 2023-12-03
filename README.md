@@ -8,3 +8,5 @@ This is good to run if you are taking a break from FiveM and need extra space or
 
 
 I do have a version of this for VRChat which can be found at: https://github.com/DishwasherDev/VRChat-Cache-Cleaner/blob/main/vrchat_cache_cleaner.bat
+
+This script is permitted for full re-distribution/modification. If you wish to give credit that's your choice.
